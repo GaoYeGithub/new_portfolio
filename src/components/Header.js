@@ -10,7 +10,7 @@ const Header = () => {
       <Navigation />
       <img src="/profile.jpg" alt="test" className="profile-pic" />
       <h1>Ye Gao</h1>
-      <p className="description">Tech Enthusiast; Aspiring Tech VP</p>
+      <p className="description">Tech Enthusiast;</p>
       <SocialLinks />
       <div className="scroll-down">
         <a href="#about-me">
