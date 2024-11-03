@@ -39,11 +39,11 @@ const Portfolio = () => {
   ];
 
   return (
-    <section id="portfolio" data-aos="zoom-in">
+    <section id="portfolio">
       <h2>My Projects</h2>
       <div className="cards">
         {projects.map((project, index) => (
-          <div key={index} data-aos={index % 2 === 0 ? "fade-right" : "fade-left"}>
+          <div key={index}>
             <h3>{project.title}</h3>
             <ProjectVideoCarousel media={project.media} />
           </div>

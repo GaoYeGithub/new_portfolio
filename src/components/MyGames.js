@@ -41,7 +41,7 @@ const MyGames = () => {
   };
 
   return (
-    <section id="my-games" data-aos="zoom-in">
+    <section id="my-games">
       <h2>My Games</h2>
       <div className="cards">
         {games.map((game, index) => (

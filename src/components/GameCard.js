@@ -13,7 +13,7 @@ const GameCard = ({ title, link, videoSrc, image, description, itchLink, animati
     <div 
       className="relative w-full rounded-lg overflow-hidden shadow-lg transition-transform duration-300 ease-in-out hover:scale-105"
       data-card 
-      data-aos={animation}
+      
       onMouseEnter={() => setIsHovered(true)}
       onMouseLeave={() => setIsHovered(false)}
     >

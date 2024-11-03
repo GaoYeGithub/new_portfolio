@@ -22,7 +22,7 @@ const Hackathon = () => {
   const closeModal = () => setVideoSrc(null);
 
   return (
-    <section id="hackathon" data-aos="zoom-in">
+    <section id="hackathon">
       <h2>Hackathon</h2>
       <div className="cards">
         {hackathonData.map((article, index) => (

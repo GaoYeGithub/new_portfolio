@@ -2,7 +2,7 @@ import React from 'react';
 
 const AboutMe = () => {
   return (
-    <section id="about-me" data-aos="zoom-in" data-aos-offset="200">
+    <section id="about-me">
       <h2>About Me</h2>
       <div className="about-box">
         <p>

@@ -2,7 +2,7 @@ import React from 'react';
 
 const HackathonCard = ({ title, image, animation, onClick }) => {
   return (
-    <div className="card" data-aos={animation} onClick={onClick}>
+    <div className="card" onClick={onClick}>
       <div className="article-container">
         <img className="article-image" src={image} draggable="false" alt={title} />
         <div className="overlay">
