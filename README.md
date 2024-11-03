@@ -1,6 +1,9 @@
 # Portfolio Website
 Cool portfolio, with cool particle affect!
 
+## Video with Animation
+[![Watch the video](https://cloud-4omt2mf0b-hack-club-bot.vercel.app/0image.png)](https://youtu.be/7JIgI6qJe34)
+
 ## Cool Light & Dark Mode
 ![Dark Moode](https://cloud-og6ojrrfv-hack-club-bot.vercel.app/0image.png)
 ![Light Mode](https://cloud-4omt2mf0b-hack-club-bot.vercel.app/0image.png)
