@@ -12,7 +12,7 @@ const MyGames = () => {
       title: "Banana Crazy",
       link: "",
       videoSrc: "monkey.mp4",
-      image: "/CatGamePreview.png",
+      image: "/monkey.png",
       description: "Cat Game",
     },
     {
