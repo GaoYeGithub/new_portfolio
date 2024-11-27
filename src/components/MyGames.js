@@ -9,15 +9,22 @@ const MyGames = () => {
 
   const games = [
     {
+      title: "Banana Crazy",
+      link: "",
+      videoSrc: "monkey.mp4",
+      image: "/CatGamePreview.png",
+      description: "Cat Game",
+    },
+    {
       title: "Cat Game",
-      link: "https://irtaza.xyz/My-Games/Catch",
+      link: "",
       videoSrc: "CatGame.mp4",
       image: "/CatGamePreview.png",
       description: "Cat Game",
     },
     {
       title: "World Tree Game",
-      link: "https://irtaza.xyz/My-Games/Math-Blitz",
+      link: "",
       videoSrc: "WorldTreeGame.mp4",
       image: "/WorldTreePreview.png",
       description: "World Tree Game",
